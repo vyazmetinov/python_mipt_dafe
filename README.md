@@ -29,14 +29,26 @@
 - [Функции](./lessons/sem_01/lesson_02/);
 - [Декораторы](./lessons/sem_01/lesson_03/);
 - [Классы](./lessons/sem_01/lesson_04/);
+- [Объектно-ориентированное программирование на Python](./lessons/sem_01/lesson_05/);
+- [Исключения](./lessons/sem_01/lesson_06/);
+- [Модули](./lessons/sem_01/lesson_07/);
+- [Числовые протоколы](./lessons/sem_01/lesson_08/);
+- [Коллекции и их протоколы](./lessons/sem_01/lesson_09/);
 
 **Домашние работы:**
+- [Дамашнее задание 1](./homeworks/sem_01/hw1/);
 
 ## Весенний семестр
 
 Эта часть курса посвящена научным вычислениям на языке Python и, в частности, таким библиотекам, как `NumPy`, `Pandas` и `Matplotlib`.
 
 **Содержание**:
+- [Менеджер пакетов и виртуальное окружение](./lessons/sem_02/lesson_01/);
+- [Введение в NumPy](./lessons/sem_02/lesson_02/);
+- [Операции над массивами NumPy](./lessons/sem_02/lesson_03/);
+- [Агрегирование и сортировка](./lessons/sem_02/lesson_04/);
+- [Линейная алгебра в NumPy](./lessons/sem_02/lesson_05/);
+- [Введение в Matplotlib](./lessons/sem_02/lesson_06/);
 
 **Домашние работы:**
 
